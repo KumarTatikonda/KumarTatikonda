@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KumarTatikonda
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Advanced data structures
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Competitive coding , web development 
+- 🌱 I’m currently learning Advanced data structures through c (or cpp), java, python 
+- 💞️ I’m looking to enlarge my network 
 - 📫 How to reach me kumartatikonda1119@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: At the end of the we r all programmers
 
 <!---
 KumarTatikonda/KumarTatikonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
